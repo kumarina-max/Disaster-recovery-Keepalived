@@ -1,5 +1,6 @@
 # Disaster-recovery-Keepalived
 
+## Настройка маршрутизатора
 
 ![Настройка маршрутизатора](screenshots/настройка%20маршрутизатора.png)
 
@@ -9,4 +10,4 @@
 
 ## Файл схемы
 
-[scheme.pkt](hsrp_advanced2.pkt)
+[scheme.pkt](screenshots/hsrp_advanced2.pkt)
