@@ -1,7 +1,7 @@
 # Disaster-recovery-Keepalived
 
 
-![Настройка маршрутизатора](screenshots/настройка маршрутизатора.png)
+![Настройка маршрутизатора](screenshots/настройка%20маршрутизатора.png)
 
 ## Результат пинга после обрыва кабеля
 
@@ -9,4 +9,4 @@
 
 ## Файл схемы
 
-[scheme.pkt](pkt-files/scheme.pkt)
+[scheme.pkt](hsrp_advanced2.pkt)
