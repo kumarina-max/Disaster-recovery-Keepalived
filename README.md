@@ -1,4 +1,7 @@
-# Disaster-recovery-Keepalived
+# Домашнее задание к занятию «Disaster Recovery. FHRP и Keepalived» Кукушкина Марина
+
+
+## Задание 1
 
 ## Настройка маршрутизатора
 
