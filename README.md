@@ -129,3 +129,15 @@ vrrp_instance VI_1 {
 
 ### 2. Остановка веб-сервера на MASTER
 ![stop-nginx](screenshots/stop-nginx.png)
+
+### 3. Проверка, что скрипт возвращает ошибку
+![script_fail](screenshots/script_fail.png)
+
+### 4. Лог Keepalived (скрипт упал, приоритет снижен)
+![keepalived_log](screenshots/keepalived_log.png)
+
+### 5. Виртуальный IP переехал на BACKUP
+![vip_backup.png](screenshots/vip_backup.png)
+
+### 6. Проверка веб-сервера через VIP
+![curl_vip](screenshots/curl_vip.png)
