@@ -121,3 +121,8 @@ vrrp_instance VI_1 {
    }
 }
 ```
+## 🧪 Демонстрация переезда VIP
+
+### 1. Виртуальный IP на MASTER (до отключения)
+
+![VIP на MASTER](screenshots/vip_master.png)
