@@ -126,3 +126,6 @@ vrrp_instance VI_1 {
 ### 1. Виртуальный IP на MASTER (до отключения)
 
 ![VIP на MASTER](screenshots/vip_master.png)
+
+### 2. Остановка веб-сервера на MASTER
+![stop-nginx](screenshots/stop-nginx.png)
