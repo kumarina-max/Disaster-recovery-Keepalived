@@ -15,7 +15,7 @@
 
 [scheme.pkt](screenshots/hsrp_advanced2.pkt)
 
-# Задание 2: Keepalived + веб-сервер (NGINX)
+## Задание 2: Keepalived + веб-сервер (NGINX)
 
 ## 📌 Описание задания
 
